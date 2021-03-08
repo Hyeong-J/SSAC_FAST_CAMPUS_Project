@@ -31,7 +31,7 @@ https://technical-support.tistory.com/54
 - ML models(gradiant boosting, xgboosting, LightGBM, Catboosting etc.)
 
 ## 4.Contributed
-- gathering data, preprocessing, scaling, visualization, trial in different data formats(PCA, SMOTE etc.)...
+#### gathering data, preprocessing, scaling, visualization, trial in different data formats(PCA, SMOTE etc.)...
 - Hyeong Jun, Song
 - Jung-A, Kim
 
