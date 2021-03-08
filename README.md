@@ -1,8 +1,8 @@
 # SSAC_FAST_CAMPUS_Project
 
-## Project subject: Classify the deviants from card company using customers' data
+ - Project subject: Classify the deviants from card company using customers' data
 
-## Project term: 2021.02.19 ~2021.02.02
+ - Project term: 2021.02.19 ~2021.02.02
 
 
 
