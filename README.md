@@ -30,6 +30,11 @@ https://technical-support.tistory.com/54
 - Python(sklearn)
 - ML models(gradiant boosting, xgboosting, LightGBM, Catboosting etc.)
 
-## 4.TODO
+## 4.Contributed
+- gathering data, preprocessing, scaling, visualization, trial in different data formats(PCA, SMOTE etc.)...
+- Hyeong Jun, Song
+- Jung-A, Kim
+
+## 5.TODO
 - Need to make this model have input-box and output-box to classify new data
 - Try another hyper parameter to make this model more efficient
